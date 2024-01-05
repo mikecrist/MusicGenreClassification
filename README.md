@@ -1,7 +1,7 @@
 # MusicGenreClassification
 Model to predict genre of a song
 
-**Project Report:** [Report](https://github.com/mikecrist/OpioidAbuseAnalysis/blob/main/Report/Report_OpioidAbuse.pdf)
+**Project Report:** [Report](https://github.com/mikecrist/MusicGenreClassification/blob/main/Report/Report_Music%20Genre%20Classification.pdf)
 
 ## Credits
 This project was created for the Georgia Tech Master of Analytics program.<br>
@@ -16,7 +16,7 @@ This project was created for the Georgia Tech Master of Analytics program.<br>
 - [Citations](#Citations)
 
 ## Abstract
-Complete report [here](https://github.com/mikecrist/OpioidAbuseAnalysis/blob/main/Report/Report_OpioidAbuse.pdf).
+Complete report [here](https://github.com/mikecrist/MusicGenreClassification/blob/main/Report/Report_Music%20Genre%20Classification.pdf).
 
 In this project I built, evaluated, and analyzed a variety of classification models to obtain the best performing model for predicting opioid abuse in US citizens. In addition to model evaluation, I determined and quantified the factors that have the greatest impact on likelihood of opioid abuse to propose healthcare policies intended to reduce incidence of opioid abuse.
 
