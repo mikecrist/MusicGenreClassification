@@ -21,7 +21,13 @@ Complete report [here](https://github.com/mikecrist/MusicGenreClassification/blo
 Beginning with Napster in 1999, online music streaming services have gained popularity with astounding speed. The introduction of Napster directly caused the first ever global decrease in album sales, as a new technology disrupted an age-old industry (Yassin, 2019). By the mid-2010s, most music listeners, globally, utilized one streaming platform or another for their music consumption. Spotify has established itself as one of the most popular streaming services. One of the most important services that Spotify offers (as well as most other streaming platforms) is the curation of playlists and song recommendations for its listeners. The goal of this project is to classify the genre of a song, given input feature data for a particular song. This provides value by automating the process of classifying song genre, thus allowing for automatic playlist creation and song recommendation based upon a listener’s preferred genre.
 
 ## Conclusions
-
+<p align="center">
+  <img width="460" height="180" src="https://github.com/mikecrist/MusicGenreClassification/assets/31662579/5ef2ec24-f3b1-4e47-b551-d4ae44b0a87b">
+</p>
+<p align="center">
+Results Summary
+</p>
+As is clear from the results above, the models that performed best for music genre classification on this dataset were random forest and neural network. This conclusion was derived by starting with a wide array of models, and eliminating models until the best performers emerged. Ultimately, the random forest and neural network models achieved a misclassification rate of about 35%. I believe the reason the misclassification rate is somewhat high is because many songs, although classified as different genres, possess very similar attributes. If this is the case, even though some songs were classified as an incorrect genre, they are still classified under the same label as similar songs. As such, this model could still provide significant value to a streaming platform because it could be used to autonomously build playlists containing similar songs.
 
 ## Dataset
 The dataset I used for this project can be found [here](https://github.com/mikecrist/MusicGenreClassification/blob/main/Data/archive%20(1)/music_genre.csv).
