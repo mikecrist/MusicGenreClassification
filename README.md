@@ -1,4 +1,4 @@
-# MusicGenreClassification
+# Music Genre Classification
 In this project I built, evaluated, and analyzed a variety of classification models to obtain the best performing model for predicting genre of a song.
 
 **Project Report:** [Report](https://github.com/mikecrist/MusicGenreClassification/blob/main/Report/Report_Music%20Genre%20Classification.pdf)
